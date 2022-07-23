@@ -12,4 +12,4 @@ datarokie-learning xml
 
 ## My Porifolio
 
-Please see my Google Data Studio dashbroad .[here]. (https://www.google.com/)
+Please see my Google Data Studio dashbroad .[here].(https://www.google.com)
